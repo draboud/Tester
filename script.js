@@ -9,5 +9,5 @@ rotationBtn.addEventListener("click", function () {
   console.log("rotation!");
 });
 scaleBtn.addEventListener("click", function () {
-  console.log("scale!");
+  console.log("scale clicked!");
 });
