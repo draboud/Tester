@@ -2,7 +2,7 @@ require("esbuild")
   .build({
     entryPoints: ["script.js"],
     bundle: true,
-    minify: true,
+    minify: false,
     sourcemap: true,
     outfile: "dist/script.js",
   })
