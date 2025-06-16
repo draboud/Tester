@@ -1,0 +1,18 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve",
+    "build": "esbuild script.js --bundle --outfile=dist/script.js --watch",
+    "build-by-file": "node builder.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.25.5",
+    "serve": "^14.2.4"
+  }
+}

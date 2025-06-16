@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../script.js"],
+  "sourcesContent": ["console.log(\"hi world\");\r\n"],
+  "mappings": ";;AAAA,UAAQ,IAAI,UAAU;",
+  "names": []
+}
