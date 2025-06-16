@@ -2,6 +2,6 @@
   "version": 3,
   "sources": ["../script.js"],
   "sourcesContent": ["const locationBtn = document.querySelector(\".action-btn.location\");\r\nconst rotationBtn = document.querySelector(\".action-btn.rotation\");\r\nconst scaleBtn = document.querySelector(\".action-btn.scale\");\r\n\r\nlocationBtn.addEventListener(\"click\", function () {\r\n  console.log(\"location!\");\r\n});\r\nrotationBtn.addEventListener(\"click\", function () {\r\n  console.log(\"rotation!\");\r\n});\r\nscaleBtn.addEventListener(\"click\", function () {\r\n  console.log(\"scale!\");\r\n});\r\n"],
-  "mappings": "MAAA,IAAMA,EAAc,SAAS,cAAc,sBAAsB,EAC3DC,EAAc,SAAS,cAAc,sBAAsB,EAC3DC,EAAW,SAAS,cAAc,mBAAmB,EAE3DF,EAAY,iBAAiB,QAAS,UAAY,CAChD,QAAQ,IAAI,WAAW,CACzB,CAAC,EACDC,EAAY,iBAAiB,QAAS,UAAY,CAChD,QAAQ,IAAI,WAAW,CACzB,CAAC,EACDC,EAAS,iBAAiB,QAAS,UAAY,CAC7C,QAAQ,IAAI,QAAQ,CACtB,CAAC",
-  "names": ["locationBtn", "rotationBtn", "scaleBtn"]
+  "mappings": ";;AAAA,MAAM,cAAc,SAAS,cAAc,sBAAsB;AACjE,MAAM,cAAc,SAAS,cAAc,sBAAsB;AACjE,MAAM,WAAW,SAAS,cAAc,mBAAmB;AAE3D,cAAY,iBAAiB,SAAS,WAAY;AAChD,YAAQ,IAAI,WAAW;AAAA,EACzB,CAAC;AACD,cAAY,iBAAiB,SAAS,WAAY;AAChD,YAAQ,IAAI,WAAW;AAAA,EACzB,CAAC;AACD,WAAS,iBAAiB,SAAS,WAAY;AAC7C,YAAQ,IAAI,QAAQ;AAAA,EACtB,CAAC;",
+  "names": []
 }
