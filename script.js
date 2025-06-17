@@ -34,6 +34,7 @@ const SetActiveVid = function (activeVid) {
       el.style.display = "block";
     }
     activeVid.play();
+    console.log(activeVid.currentTime);
     isPlaying = true;
   });
 };
