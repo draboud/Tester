@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@lottiefiles/lottie-player": "^2.0.12",
     "esbuild": "^0.25.5",
     "serve": "^14.2.4"
   }
